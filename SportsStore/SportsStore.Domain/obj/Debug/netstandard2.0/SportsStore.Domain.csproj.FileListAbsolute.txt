@@ -1,0 +1,16 @@
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\SportsStore.Domain.deps.json
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\SportsStore.Domain.dll
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.csprojAssemblyReference.cache
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.AssemblyInfo.cs
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\SportsStore.Domain.pdb
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.dll
+c:\users\admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.pdb
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Admin\source\repos\SportsStore\SportsStore.Domain\obj\Debug\netstandard2.0\SportsStore.Domain.csproj.CopyComplete
